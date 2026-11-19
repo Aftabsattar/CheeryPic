@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheeryPic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae580fde86e21d2e0900897d55a3fe7ddd4dab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c53b0b2556a5aac4e07f61d28da6e1b5bc41d0c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheeryPic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheeryPic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
