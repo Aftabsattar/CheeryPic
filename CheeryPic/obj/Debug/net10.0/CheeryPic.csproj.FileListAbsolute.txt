@@ -1,0 +1,15 @@
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\bin\Debug\net10.0\CheeryPic.exe
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\bin\Debug\net10.0\CheeryPic.deps.json
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\bin\Debug\net10.0\CheeryPic.runtimeconfig.json
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\bin\Debug\net10.0\CheeryPic.dll
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\bin\Debug\net10.0\CheeryPic.pdb
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.AssemblyInfoInputs.cache
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.AssemblyInfo.cs
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.dll
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\refint\CheeryPic.dll
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.pdb
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.genruntimeconfig.cache
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\ref\CheeryPic.dll
+C:\Users\Muhammad Aftab\source\repos\CheeryPic\CheeryPic\obj\Debug\net10.0\CheeryPic.csproj.Up2Date
